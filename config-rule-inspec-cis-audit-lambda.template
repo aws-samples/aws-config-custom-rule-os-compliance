@@ -186,6 +186,3 @@ Resources:
       Path: /
       Roles:
         - !Ref EC2RoleforSSM
-Parameters: {}
-Metadata: {}
-Conditions: {}
